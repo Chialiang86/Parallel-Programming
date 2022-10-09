@@ -1,0 +1,40 @@
+0
+Running test1()...
+Elapsed execution time of the loop in test1():
+8.33462sec (N: 1024, I: 20000000)
+1
+Running test1()...
+Elapsed execution time of the loop in test1():
+8.35775sec (N: 1024, I: 20000000)
+2
+Running test1()...
+Elapsed execution time of the loop in test1():
+8.38798sec (N: 1024, I: 20000000)
+3
+Running test1()...
+Elapsed execution time of the loop in test1():
+8.37651sec (N: 1024, I: 20000000)
+4
+Running test1()...
+Elapsed execution time of the loop in test1():
+8.35002sec (N: 1024, I: 20000000)
+5
+Running test1()...
+Elapsed execution time of the loop in test1():
+8.39909sec (N: 1024, I: 20000000)
+6
+Running test1()...
+Elapsed execution time of the loop in test1():
+8.3614sec (N: 1024, I: 20000000)
+7
+Running test1()...
+Elapsed execution time of the loop in test1():
+8.37502sec (N: 1024, I: 20000000)
+8
+Running test1()...
+Elapsed execution time of the loop in test1():
+8.33932sec (N: 1024, I: 20000000)
+9
+Running test1()...
+Elapsed execution time of the loop in test1():
+8.31084sec (N: 1024, I: 20000000)

@@ -2,7 +2,7 @@ TARGET := test_auto_vectorize
 
 OBJS := main.o test1.o test2.o test3.o
 
-CXX := clang++
+CXX := g++ #clang++
 
 ifeq (/usr/bin/clang++-11,$(wildcard /usr/bin/clang++-11*))
     CXX=clang++-11
